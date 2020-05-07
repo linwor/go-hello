@@ -1,5 +1,5 @@
 {
-    "name": "paygate/payweb-standalone",
+    "name": "lcw/payweb-standalone",
     "require": {
         "monolog/monolog": "^2.0"
     }
