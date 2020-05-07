@@ -1,5 +1,5 @@
 {
-    "name": "lcw/payweb-standalone",
+    "name": "linwor/payweb-standalone",
     "require": {
         "monolog/monolog": "^2.0"
     }
